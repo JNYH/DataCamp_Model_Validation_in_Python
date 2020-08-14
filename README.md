@@ -9,5 +9,5 @@ Chapter 3. Cross Validation
 
 Chapter 4. Selecting the best model with Hyperparameter tuning
 
-## Course Summary:
+## Course Notes:
 https://medium.com/@jnyh/model-validation-in-python-ad23c1d215b
